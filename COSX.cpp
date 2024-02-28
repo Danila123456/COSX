@@ -9,4 +9,5 @@ int main() {
 	y *= 2;
 	printf("Результат: y = %lf\n", y);
 	return 0;
+
 }
